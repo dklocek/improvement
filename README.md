@@ -13,4 +13,4 @@ It can handle up to 5 files at once.
 
 The file doesn't have to be in the same directory, a path can be given:
 
-main.py /home/file /tmp/otherfile /var/log/mylog
+```main.py /home/file /tmp/otherfile /var/log/mylog```
